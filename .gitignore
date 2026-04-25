@@ -1,0 +1,46 @@
+# .gitignore for Ant Esports V4 Custom Display
+
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Log files
+AntV4_Log.txt
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+*.vsconfig
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# macOS files
+.DS_Store
+
+# Rider / JetBrains
+.idea/
+
+# Backup files
+*.bak
+*.orig
+
+# NuGet packages (if you use them later)
+packages/
+
+# Ignore the built executable if you want to upload source only
+AntV4Display.exe
