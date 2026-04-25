@@ -1,0 +1,12 @@
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\bin\Debug\AntEsportsV4Silent.exe.config
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\bin\Debug\AntEsportsV4Silent.exe
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\bin\Debug\AntEsportsV4Silent.pdb
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\bin\Debug\CyUSB.dll
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\obj\Debug\AntEsportsV4Silent.csproj.AssemblyReference.cache
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\obj\Debug\AntEsportsV4Silent.Properties.Resources.resources
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\obj\Debug\AntEsportsV4Silent.csproj.GenerateResource.cache
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\obj\Debug\AntEsportsV4Silent.csproj.CoreCompileInputs.cache
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\obj\Debug\AntEspor.CEEA2CFD.Up2Date
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\obj\Debug\AntEsportsV4Silent.exe
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\obj\Debug\AntEsportsV4Silent.pdb
+D:\AntV4TempDisplay\AntEsportsV4Silent\AntEsportsV4Silent\obj\Debug\AntEsportsV4Silent.exe.config
