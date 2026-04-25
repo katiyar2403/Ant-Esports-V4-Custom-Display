@@ -57,15 +57,3 @@ Feel free to open issues or pull requests!
 Free for personal use.
 
 ---
-
-**How to use this:**
-
-1. Create a new file in your project folder called `README.md`
-2. Paste the above content
-3. Replace the placeholder image link with a real screenshot later (optional)
-4. Commit and push:
-
-```powershell
-git add README.md
-git commit -m "Add README"
-git push
